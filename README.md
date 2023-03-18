@@ -1,5 +1,7 @@
 # Paschen-Law
 Voltage breakdown in different gases due to small gaps between electrodes
 
+Theoretical Paschen curve, critical for anodic bonding in the presence of buffer gas
 
-![vapor pressures of some elements](https://user-images.githubusercontent.com/30641156/226087251-e224e71e-dd72-4b67-b14e-265fcf79f311.png)
+
+![theoretical paschen curve](https://user-images.githubusercontent.com/30641156/226087264-904bad5f-e983-407d-aaf8-6dd66a5e87c4.png)
